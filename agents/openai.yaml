@@ -1,0 +1,14 @@
+interface:
+  display_name: OpenAlex
+  short_description: Search scholarly works and trace research connections
+  default_prompt: Use $openalex to find relevant research, verify author identities,
+    and return cited findings.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true

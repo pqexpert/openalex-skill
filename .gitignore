@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+apiopenalex
+api_key
+*.key
+*.pem
+credentials.json
+.secrets/
+outputs/
+dist/
+.venv/
